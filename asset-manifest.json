@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/underiya.github.io/static/css/main.9bb9f7d6.css",
+    "main.js": "/underiya.github.io/static/js/main.149971e4.js",
+    "static/js/453.acca0757.chunk.js": "/underiya.github.io/static/js/453.acca0757.chunk.js",
+    "static/media/boxicons.svg": "/underiya.github.io/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/fa-solid-900.ttf": "/underiya.github.io/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/boxicons.eot": "/underiya.github.io/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/underiya.github.io/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/underiya.github.io/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/fa-brands-400.ttf": "/underiya.github.io/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/underiya.github.io/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/underiya.github.io/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/boxicons.woff2": "/underiya.github.io/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/fa-regular-400.ttf": "/underiya.github.io/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/underiya.github.io/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/underiya.github.io/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/underiya.github.io/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/underiya.github.io/index.html",
+    "main.9bb9f7d6.css.map": "/underiya.github.io/static/css/main.9bb9f7d6.css.map",
+    "main.149971e4.js.map": "/underiya.github.io/static/js/main.149971e4.js.map",
+    "453.acca0757.chunk.js.map": "/underiya.github.io/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb9f7d6.css",
+    "static/js/main.149971e4.js"
+  ]
+}
