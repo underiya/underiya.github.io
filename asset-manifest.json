@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/underiya.github.io/static/css/main.9bb9f7d6.css",
-    "main.js": "/underiya.github.io/static/js/main.f59eab81.js",
+    "main.js": "/underiya.github.io/static/js/main.caeb29ff.js",
     "static/js/453.acca0757.chunk.js": "/underiya.github.io/static/js/453.acca0757.chunk.js",
     "static/media/travelbee.png": "/underiya.github.io/static/media/travelbee.001b9c112ded899b99f6.png",
     "static/media/Bon-Voyage.png": "/underiya.github.io/static/media/Bon-Voyage.9eff2cdece2ac583d084.png",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/underiya.github.io/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/underiya.github.io/index.html",
     "main.9bb9f7d6.css.map": "/underiya.github.io/static/css/main.9bb9f7d6.css.map",
-    "main.f59eab81.js.map": "/underiya.github.io/static/js/main.f59eab81.js.map",
+    "main.caeb29ff.js.map": "/underiya.github.io/static/js/main.caeb29ff.js.map",
     "453.acca0757.chunk.js.map": "/underiya.github.io/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb9f7d6.css",
-    "static/js/main.f59eab81.js"
+    "static/js/main.caeb29ff.js"
   ]
 }
