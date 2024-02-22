@@ -1,11 +1,15 @@
 // ProjectCard.js
 
 import ProjectCard from "./ProjectCard";
+import bonVoyage from "../images/Bon-Voyage.png";
+import travelbee from "../images/travelbee.png";
+import chakraui from "../images/chakra.jpeg";
+
 const Projects = () => {
   const projects = [
     {
       name: "Bon Voyage",
-      img: "Bon-Voyage.png",
+      img: bonVoyage,
       description:
         "Bon Voyage, your ultimate online vacation booking destination, is designed to transform your travel dreams into reality.",
       deployedLink:
@@ -31,13 +35,13 @@ const Projects = () => {
         },
         {
           name: "Chakra UI",
-          logo: "chakra.jpeg",
+          logo: chakraui,
         },
       ],
     },
     {
       name: "Travel Bee",
-      img: "travelbee.png",
+      img: travelbee,
       description:
         "TravelBee is a website designed to make travel planning easy and convenient",
       deployedLink: "https://travel-bee-b66ab7.netlify.app/",

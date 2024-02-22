@@ -1,7 +1,3 @@
-import "@fortawesome/fontawesome-free/css/all.min.css";
-import "boxicons";
-
-import "boxicons/css/boxicons.min.css";
 export default function Skills() {
   return (
     <>

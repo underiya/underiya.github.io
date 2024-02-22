@@ -44,13 +44,7 @@ const Stats = () => {
           src="https://github-readme-activity-graph.vercel.app/graph?username=underiya&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"
           className=" w-full"
         />
-        {/* <img
-            className="react-activity-calendar w-full my-10 h-64"
-            id="github-contributions"
-            src="https://ghchart.rshah.org/Yawer091"
-            alt="Github chart"
-          /> */}
-        <div class="react-activity-calendar ">
+        <div className="react-activity-calendar ">
           <img
             className="w-full my-10 h-64"
             src="https://ghchart.rshah.org/underiya"

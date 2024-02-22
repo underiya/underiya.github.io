@@ -1,6 +1,7 @@
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "boxicons/css/boxicons.min.css";
 
+import deepakResume from "../images/deepak.jpg";
 export default function Header() {
   const downloadResume = () => {
     try {
@@ -55,8 +56,9 @@ export default function Header() {
           <div className="flex gap-7">
             <a
               href="https://www.linkedin.com/in/deepak-underiya/"
-              target="_blank"
               className=" text-xl"
+              target="_blank"
+              rel="noreferrer"
             >
               <i className="fa-brands fa-linkedin fa-2xl"></i>
             </a>
@@ -64,6 +66,7 @@ export default function Header() {
               href="https://github.com/underiya"
               className=" text-xl"
               target="_blank"
+              rel="noreferrer"
             >
               <i className="fa-brands fa-github fa-2xl"></i>
             </a>
@@ -72,7 +75,7 @@ export default function Header() {
       </div>
 
       <div className="md:w-2/5 m-4 mt-20">
-        <img className="home-img w-full h-full " src={"deepak.jpg"} alt="box" />
+        <img className="home-img w-full h-full " src={deepakResume} alt="box" />
       </div>
     </div>
   );

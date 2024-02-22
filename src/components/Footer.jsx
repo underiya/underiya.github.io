@@ -8,7 +8,7 @@ const Footer = () => {
           <p className=" text-2xl">
             Created by Deepak underiya{" "}
             <i className="fas fa-heart text-yellow-500"></i> 2023 All Rights
-            Reserved.
+            Reserved..
           </p>
         </div>
         <div className=" ">

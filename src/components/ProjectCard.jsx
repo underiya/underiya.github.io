@@ -8,10 +8,9 @@ const ProjectCard = ({ project }) => {
       <div className="layer my-4">
         <p className="project-description text-2xl">{project.description}</p>
         <p className="project-tech-stack text-2xl flex justify-center gap-2">
-          {project.techStacks.map((el) => {
-            return <img src={el.logo} alt={el.name} className="w-10" />;
+          {project.techStacks.map((el, i) => {
+            return <img key={i} src={el.logo} alt={el.name} className="w-10" />;
           })}
-          {/* <span className="font-bold ">Tech-Stack</span> : {techStack} */}
         </p>
         <div className="links-deployed my-2 flex justify-center align-middle gap-2">
           <div className="project-deployed-link my-2">
